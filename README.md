@@ -18,6 +18,9 @@ Create an application that can be used to write and save notes. It needs to use 
 ## Usage
 - start by typing 'node server' into the terminal. Then navigate to localhose:3001, then click on Get Started.
 
+![image](https://user-images.githubusercontent.com/94270439/154816814-1fcb15d6-c537-40da-b346-346e54be9faa.png)
+
+
 ## License
 - NONE
 
@@ -31,3 +34,5 @@ Create an application that can be used to write and save notes. It needs to use 
 - For more information see my GitHub [profile](https://github.com/MattKolbach)
 - To contact me directly email me at <mattkolbach@yahoo.com>. Be use to include GitHub and the project name in the subject line.
 
+## Deployed
+- 
