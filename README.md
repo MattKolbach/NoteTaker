@@ -36,4 +36,4 @@ Create an application that can be used to write and save notes. It needs to use 
 
 ## Deployed
 - https://mattkolbach.github.io/NoteTaker/
-- 
+- https://note-taker-matt-kolbach.herokuapp.com/
