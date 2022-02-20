@@ -16,7 +16,7 @@ Create an application that can be used to write and save notes. It needs to use 
 - You will need node, Express.js, and to clone the starter files.
 
 ## Usage
-- start by typing 'node server' into the terminal. Then navigate to localhose:3001, then click on Get Started.
+- start by typing 'node server' into the terminal. Then navigate to localhost:3001, then click on Get Started.
 
 ![image](https://user-images.githubusercontent.com/94270439/154816814-1fcb15d6-c537-40da-b346-346e54be9faa.png)
 
